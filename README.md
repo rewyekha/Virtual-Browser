@@ -146,8 +146,9 @@ It also offers zero-knowledge [installation script (with HTTPS and Traefik)](htt
 * [Mobile Support](https://neko.m1k1o.net/#/mobile-support)
 * [Contributing](https://neko.m1k1o.net/#/contributing)
   * [Non Goals](https://neko.m1k1o.net/#/non-goals)
-  * [Technologies](https://neko.m1k1o.net/#/technologies)
+  * [Technologies](https://neko.m1k1o.net/#/technologies) 
 * [Changelog](https://neko.m1k1o.net/#/changelog)
+* 
 
 ## How to contribute? How to build?
 
